@@ -1,1 +1,3 @@
 # GriefingCommunity
+
+$$ Haxxors for fun $$
